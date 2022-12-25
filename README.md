@@ -8,7 +8,7 @@ This is an automation program in python code, all of its purpose is to mange you
 
 2.  Extract the folder where you want (all the files should be in the same folder).
 
-3. Edit both file where you asked to.
+3. Edit both file where you asked to, dont forget to make 4 folders where you want your files (docs, pic, vids and softwares).
 
 4. Enter the terminal and move to the directory where the files are at.
 
