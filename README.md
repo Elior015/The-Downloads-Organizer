@@ -10,7 +10,7 @@ This is an automation program in python code, all of its purpose is to mange you
 
 3. Edit both file where you asked to, dont forget to make 4 folders where you want your files (docs, pic, vids and softwares).
 
-4. Enter the terminal/cmd and move to the directory where the files are at.
+4. Enter the terminal/cmd and navigate to the directory where the files are at.
 
 5. Excute the command: python3 the_automation.py
 
