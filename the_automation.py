@@ -25,7 +25,7 @@ image_extensions = [".jpg", ".jpeg", ".jpe", ".jif", ".jfif", ".jfi", ".png", ".
 video_extensions = [".webm", ".mpg", ".mp2", ".mpeg", ".mpe", ".mpv", ".ogg",
                     ".mp4", ".mp4v", ".m4v", ".avi", ".wmv", ".mov", ".qt", ".flv", ".swf", ".avchd"]
 ## Software types
-softwares_extensions = [".dmg", ".pkg", "zip", ".bin", ".app", ".aae" ".cnf"]
+softwares_extensions = [".dmg", ".pkg", "zip", ".bin", ".app", ".aae" ".cnf", ".exe", ".msi"]
 
 ## Document types
 document_extensions = [".doc", ".docx", ".odt",
