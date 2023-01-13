@@ -1,6 +1,6 @@
 # The-Downloads-Organizer
 
-This is an automation program in python code, all of its purpose is to mange your downloads files.
+This is an automation program written in python, all of its purpose is to mange your downloads files.
 
 ## Installation Steps
 
